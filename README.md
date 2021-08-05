@@ -3,7 +3,7 @@ Instalador de Man-In-The-Middle attacks para Kali linux 2021
 Un Script sencillo de instalación para facilitar el trabajo de instalación de MITMF en los kali linux más actualizados.
 Tener en cuenta que solo se ha probado en kali y en otros sistemas operativos aun no han sido testeados.
 
-# Intalacion manual
+# Instalacion manual
 
 Para intalar recuerda tener todo actualizado.
 
