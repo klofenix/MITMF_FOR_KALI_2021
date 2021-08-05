@@ -36,3 +36,6 @@ sudo pip2 install -r requeriments.txt
 Probamo la instalación.
 
 sudo python mitmf.py --help
+
+#Creditos
+https://github.com/byt3bl33d3r
