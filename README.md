@@ -3,9 +3,9 @@ Instalador de Man-In-The-Middle attacks para Kali linux 2021
 Un Script sencillo de instalación para facilitar el trabajo de instalación de MITMF en los kali linux más actualizados.
 Tener en cuenta que solo se ha probado en kali y en otros sistemas operativos aun no han sido testeados.
 
-# Instalacion manual
+# Instalación manual
 
-Para intalar recuerda tener todo actualizado.
+Para instalar recuerda tener todo actualizado.
 
 sudo apt uptade
 sudo apt-get update
@@ -15,6 +15,7 @@ sudo apt-get upgrade
 a continuacion podre el instalador extradido del archivo del codigo.
 
 -Instalador de MITMF para kali 2021, aun no se ha probado con otro OS. Si estas en Parrot Para el proceso.
+
 -Instalamos Pip2
 
 sudo curl https://bootstrap.pypa.io/pip/2.7/get-pip-py --output get-pip.py
