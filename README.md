@@ -17,9 +17,9 @@ Tener en cuenta que solo se ha probado en kali y en otros sistemas operativos au
 ```
 
 
-**a continuacion podre el instalador extradido del archivo del codigo.**
+**a continuacion pondré el instalador extradido del archivo del codigo.**
 
-- **Instalador de MITMF para kali 2021, aun no se ha probado con otro OS. Si estas en Parrot Para el proceso.**
+- **Instalador de MITMF para kali 2021, aun no se ha probado con otro OS. (Si estas en Parrot, Para el proceso o realiza una copia de seguridad antes.).**
 
 - **Instalamos Pip2**
 
