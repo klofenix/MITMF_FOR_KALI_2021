@@ -31,10 +31,7 @@ sleep 2s
 echo   
 echo Instalador de MITMF para kali 2021, aun no se ha probado con otro OS. Si estas en Parrot Para el proceso.
 echo Dentro de 5 segundos inciara la instalación, si no quieres continuar pulsa control + c ó cierra la terminal
-sleep 5s
-cd 
-apt update 
-apt upgrade
+sleep 5s 
 echo .
 echo ..
 echo ...
@@ -42,6 +39,8 @@ echo Cargando...
 sleep 2s
 echo Comienza la instalación, no detengas el proceso.
 sleep 2s
+cd $HOME && mkdir MITMFKALI
+cd MITMFKALI
 echo Instalamos Pip2
 sudo curl https://bootstrap.pypa.io/pip/2.7/get-pip-py --output get-pip.py
 sleep 2s
